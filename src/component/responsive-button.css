@@ -1,0 +1,10 @@
+.responsive-button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+@media (max-width: 600px) {
+  .responsive-button {
+    font-size: 14px;
+  }
+}
